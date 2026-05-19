@@ -1,6 +1,6 @@
 package Binary_Search;
 
-public class rotated_sorted_array_search {
+public class b3_rotated_sorted_array_search {
      public static void main(String[] args) {
        int arr[] = {4,5,6,7,8,0,1,2,3};
        int target =0;
