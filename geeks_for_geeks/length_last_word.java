@@ -1,3 +1,4 @@
+package geeks_for_geeks;
 public class length_last_word {
     public static int lengthOfLastWord(String s) {
        s.trim();

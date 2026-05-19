@@ -1,3 +1,4 @@
+package geeks_for_geeks;
 class Valid_Anagram {
     public static boolean isAnagram(String s, String t) {
        int freq[] = new int[26];

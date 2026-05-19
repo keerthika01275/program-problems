@@ -1,3 +1,4 @@
+package geeks_for_geeks;
 //You are given an array arr, replace every element in that array with t
 // he greatest element among the elements to its right,
 //  and replace the last element with -1.

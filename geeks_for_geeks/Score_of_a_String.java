@@ -1,3 +1,4 @@
+package geeks_for_geeks;
 class Score_of_a_String  {
     public static int scoreOfString(String s) {
         int val=0;

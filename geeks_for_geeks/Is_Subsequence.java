@@ -1,3 +1,4 @@
+package geeks_for_geeks;
 public class Is_Subsequence {
     public static boolean isSubsequence(String s, String t) {
         int i=0,j=0,m=s.length(),n=t.length();

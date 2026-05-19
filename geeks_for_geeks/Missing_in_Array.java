@@ -1,3 +1,4 @@
+package geeks_for_geeks;
 import java.util.*;
 class Missing_in_Array {
   public static  int missingNum(int arr[]) {

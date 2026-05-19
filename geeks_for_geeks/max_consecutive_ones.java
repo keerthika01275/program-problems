@@ -1,3 +1,4 @@
+package geeks_for_geeks;
 public class max_consecutive_ones {
     public static int findMaxConsecutiveOnes(int[] nums) {
         // 1 1 0 1 1 1  3

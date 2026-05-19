@@ -1,3 +1,4 @@
+package geeks_for_geeks;
 class Solution {
     public static int getSecondLargest(int[] arr) {
         int max=-1,max1=-1;

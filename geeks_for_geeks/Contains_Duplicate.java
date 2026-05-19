@@ -1,3 +1,4 @@
+package geeks_for_geeks;
 class Contains_Duplicate {
     public static boolean hasDuplicate(int[] nums) {
     for(int i=0;i<nums.length;i++){
